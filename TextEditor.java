@@ -4,8 +4,10 @@ import javax.swing.JToolBar;
 import javax.swing.JTextArea;
 import javax.swing.JButton;
 import javax.swing.JOptionPane;
+import javax.swing.JScrollPane;
 import java.awt.BorderLayout;
 import javax.swing.text.*;
+
 
 public class TextEditor extends JFrame{
 	
